@@ -1,0 +1,10 @@
+
+__pycache__/
+*.py[cod]
+
+**/logs
+**/mssqldata
+**/pgdata
+**/plugins
+*.csv
+*.json
